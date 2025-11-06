@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "data": {
+    "config": { ... },
+    "users": [ 
+      { "username": "kamar101", "password": "12345" },
+      // ... data user lainnya
+    ],
+    "nav_menus": [ ... ],
+    "live_tv_channels": [ ... ]
+  }
+}
