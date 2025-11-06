@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "data": {
+    "config": {
+      "welcome_message": "Welcome to Parlin TV! Please enjoy your stay.",
+      "time_format": "hh:mm a",
+      "date_format": "EEEE, dd MMMM yyyy",
+      "locale": "en_US"
+    },
+    "nav_menus": [
+      {
+        "title": "LIVE TV",
+        "icon_id": "ic_live_tv",
+        "target": "LiveTVActivity"
+      },
+      {
+        "title": "YOUTUBE",
+        "icon_id": "ic_youtube",
+        "target": "com.google.android.youtube.tv"
+      },
+      {
+        "title": "NETFLIX",
+        "icon_id": "ic_netflix",
+        "target": "com.netflix.ninja"
+      },
+      {
+        "title": "HOTEL INFO",
+        "icon_id": "ic_hotel_info",
+        "target": "HotelInfoActivity"
+      }
+    ]
+  }
+}
